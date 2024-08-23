@@ -166,7 +166,7 @@ p {
     justify-content: space-between;
 }
 
-.project img {
+.project img ,.project iframe{
     width: 100%;
     border-radius: 8px;
     margin-bottom: 15px;
